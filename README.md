@@ -2,7 +2,7 @@
 
 Features
 
-Our marketplace, which we shall call Tiny Market, will be a minimal implementation that allows people to trustlessly list NFTs for sale. An NFT offering will contain the following information:
+Tiny Market is a minimal implementation marketplace that allows people to trustlessly list NFTs for sale. An NFT offering will contain the following information:
 
 The NFT being offered for sale.
 A block height at which the listing expires.
